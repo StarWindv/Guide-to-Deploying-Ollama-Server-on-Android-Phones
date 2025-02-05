@@ -1,5 +1,7 @@
 **Guide to Deploying Ollama Server on Android Phones**  
+
 [中文文档](./README_CN.md)
+
 📱 **Build a Local AI Server with Just an Android Phone (No Root Required)! Step-by-Step Tutorial**  
 
 ✨ **Acknowledgements**  
